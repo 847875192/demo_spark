@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../sparkDemo/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/../sparkDemo/out" />
+  </component>
+  <component name="libraryTable">
+    <library name="akka-actor_2.11-2.3.4">
+      <CLASSES>
+        <root url="jar://$PROJECT_DIR$/../scala-2.11.4/scala-2.11.4/lib/akka-actor_2.11-2.3.4.jar!/" />
+        <root url="jar://$PROJECT_DIR$/../scala-2.11.4/scala-2.11.4/lib/config-1.2.1.jar!/" />
+        <root url="jar://$PROJECT_DIR$/../scala-2.11.4/scala-2.11.4/lib/jline-2.12.jar!/" />
+        <root url="jar://$PROJECT_DIR$/../scala-2.11.4/scala-2.11.4/lib/scala-actors-2.11.0.jar!/" />
+        <root url="jar://$PROJECT_DIR$/../scala-2.11.4/scala-2.11.4/lib/scala-actors-migration_2.11-1.1.0.jar!/" />
+        <root url="jar://$PROJECT_DIR$/../scala-2.11.4/scala-2.11.4/lib/scala-compiler.jar!/" />
+        <root url="jar://$PROJECT_DIR$/../scala-2.11.4/scala-2.11.4/lib/scala-continuations-library_2.11-1.0.2.jar!/" />
+        <root url="jar://$PROJECT_DIR$/../scala-2.11.4/scala-2.11.4/lib/scala-continuations-plugin_2.11.4-1.0.2.jar!/" />
+        <root url="jar://$PROJECT_DIR$/../scala-2.11.4/scala-2.11.4/lib/scala-library.jar!/" />
+        <root url="jar://$PROJECT_DIR$/../scala-2.11.4/scala-2.11.4/lib/scala-parser-combinators_2.11-1.0.2.jar!/" />
+        <root url="jar://$PROJECT_DIR$/../scala-2.11.4/scala-2.11.4/lib/scala-reflect.jar!/" />
+        <root url="jar://$PROJECT_DIR$/../scala-2.11.4/scala-2.11.4/lib/scala-swing_2.11-1.0.1.jar!/" />
+        <root url="jar://$PROJECT_DIR$/../scala-2.11.4/scala-2.11.4/lib/scala-xml_2.11-1.0.2.jar!/" />
+        <root url="jar://$PROJECT_DIR$/../scala-2.11.4/scala-2.11.4/lib/scalap-2.11.4.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="scala-2.10.5">
+      <CLASSES>
+        <root url="jar://$PROJECT_DIR$/../scala-2.10.5/lib/akka-actors.jar!/" />
+        <root url="jar://$PROJECT_DIR$/../scala-2.10.5/lib/jline.jar!/" />
+        <root url="jar://$PROJECT_DIR$/../scala-2.10.5/lib/scala-actors-migration.jar!/" />
+        <root url="jar://$PROJECT_DIR$/../scala-2.10.5/lib/scala-actors.jar!/" />
+        <root url="jar://$PROJECT_DIR$/../scala-2.10.5/lib/scala-compiler.jar!/" />
+        <root url="jar://$PROJECT_DIR$/../scala-2.10.5/lib/scala-library.jar!/" />
+        <root url="jar://$PROJECT_DIR$/../scala-2.10.5/lib/scala-reflect.jar!/" />
+        <root url="jar://$PROJECT_DIR$/../scala-2.10.5/lib/scala-swing.jar!/" />
+        <root url="jar://$PROJECT_DIR$/../scala-2.10.5/lib/scalap.jar!/" />
+        <root url="jar://$PROJECT_DIR$/../scala-2.10.5/lib/typesafe-config.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</project>
